@@ -26,6 +26,8 @@ A operação exigiu a transição completa de um modelo analítico manual para u
 | **Tempo de Diagnóstico em Compras** | Dias de cruzamento em planilhas | **Segundos (Copiloto Chat2SQL)** | Democratização analítica em linguagem natural para compradores e diretores. |
 | **Maturidade e Cultura de Decisão** | Apoio em "feeling" comercial | **Operação 100% Data-Driven (< 8 meses)** | Adoção corporativa multidisciplinar estendida para Crédito, Risco e Comercial. |
 
+
+
 ---
 
 ## 🔬 O Framework Científico: A Batalha das Arquiteturas Preditivas
@@ -50,11 +52,18 @@ Prever séries temporais no segmento de autopeças e bens industriais envolve sa
 | **ARIMA (Não-Sazonal)** | 🥉 **3º Lugar (Degradação)** | **14,87% a 14,94%** | **74.275 a 76.643 un** | **6,64% (MAE: R$ 1,21M)** | Comportou-se como uma média móvel rígida; incapacidade estrutural de antecipar variações sazonais cíclicas de demanda B2B. |
 | **MLP (Multi-Layer Perceptron)** | 🚨 **4º Lugar (Colapso / Overfitting)** | **100,00%** | **499.327 un** | **100,00% (MAE: R$ 18,29M)** | Falha crítica de generalização temporal na ausência de horizonte estendido de décadas, projetando dispersão extrema e colapso a zero. |
 
+
+<img width="1536" height="1024" alt="Guia Visual de Modelos de PrevisãoTemporal" src="https://github.com/user-attachments/assets/24e00784-ccbc-4b86-8e49-e2ff0e7703ff" />
+<img width="1692" height="930" alt="Infográfico de Modelos de Forecasting" src="https://github.com/user-attachments/assets/19d1ad17-24e8-4089-9962-582a8b363367" />
+
+
+
 ---
 
 ## 🖼️ Painéis Analíticos e Visualizações Técnicas do Ecossistema
 
 As análises abaixo compõem os motores gráficos gerados pelo *Enterprise Data Engine* para guiar os comitês executivos de compras, diretoria comercial e governança de suprimentos.
+
 
 ---
 
@@ -120,6 +129,20 @@ As análises abaixo compõem os motores gráficos gerados pelo *Enterprise Data 
 
 - **Validação Prática da Teoria**: Enquanto modelos complexos de redes neurais profundas (MLP) sofreram colapso total por ausência de um horizonte secular de treinamento, o **SARIMA** provou ser a ferramenta industrial mais robusta para previsão de demanda fabril com forte componente sazonal.
 - **Aderência aos Picos de Final de Ano**: Apenas os modelos com componente sazonal explícito capturaram a explosão de demanda observada no último trimestre de 2025, garantindo que as ordens de compra emitidas no terceiro trimestre chegassem a tempo nas filiais.
+
+<img width="1920" height="1080" alt="grafico_01_demanda_sku_curva_abc_stacked_1080p" src="https://github.com/user-attachments/assets/666a2e92-e03c-4017-bae1-c57d058e1a0b" />
+<img width="1920" height="1080" alt="grafico_02_faturamento_vendas_canais_stacked_1080p" src="https://github.com/user-attachments/assets/1d433443-d3a1-4ae8-97d9-f06b81e91b74" />
+<img width="1920" height="1080" alt="grafico_03_dinamica_carteira_clientes_stacked_1080p" src="https://github.com/user-attachments/assets/fe6b0af8-4f6b-4dcd-9ce8-a03db109a791" />
+<img width="1920" height="1080" alt="grafico_04_pedidos_unicos_faixa_ticket_stacked_1080p" src="https://github.com/user-attachments/assets/67c698f2-d81c-4eca-ab3b-dcc955003b53" />
+<img width="1920" height="1080" alt="grafico_05_fluxo_churn_perda_clientes_stacked_1080p" src="https://github.com/user-attachments/assets/273c4482-1398-48ba-b926-01d4ed553e78" />
+<img width="1920" height="1080" alt="grafico_06_benchmark_master_gradiente_stacked_1080p" src="https://github.com/user-attachments/assets/91cfca0e-3c7a-4329-91a0-02a5da1ee683" />
+<img width="1920" height="1080" alt="grafico_01_projecao_comparativa_demanda_sku_1080p" src="https://github.com/user-attachments/assets/841d897f-f723-4b25-8d95-7262ce5065a1" />
+<img width="1920" height="1080" alt="grafico_02_projecao_comparativa_faturamento_1080p" src="https://github.com/user-attachments/assets/71870e27-885e-4f2a-b2c0-c3c137009d9b" />
+<img width="1920" height="1080" alt="grafico_03_projecao_comparativa_novos_clientes_1080p" src="https://github.com/user-attachments/assets/ed1bc376-756e-4195-9c82-bd296b195801" />
+<img width="1920" height="1080" alt="grafico_04_projecao_comparativa_pedidos_unicos_1080p" src="https://github.com/user-attachments/assets/decae728-5edb-4beb-bbd6-b9eaf143d5cb" />
+<img width="1920" height="1080" alt="grafico_05_projecao_comparativa_churn_clientes_1080p" src="https://github.com/user-attachments/assets/f1ff3206-c0ef-428f-bd3f-71ce97145652" />
+<img width="1920" height="1080" alt="grafico_06_benchmark_master_consolidado_1080p" src="https://github.com/user-attachments/assets/aa9ae015-d599-47a9-b9b4-5e17b0b27765" />
+
 
 ---
 
